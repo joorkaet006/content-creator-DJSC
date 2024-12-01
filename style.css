@@ -50,6 +50,7 @@ text-align: center;
 .product-txt{
     flex-basis: 400%;
     text-align: left;
+    text-align: justify;
 }
 
 .product-txt span{
@@ -70,7 +71,7 @@ text-align: center;
 }
 
 .product-txt p{
-    font-size: 14px;
+    font-size: 12px;
     color: #c4c4c4;
 }
 
